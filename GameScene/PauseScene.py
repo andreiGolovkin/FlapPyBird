@@ -4,7 +4,7 @@ import pygame
 
 from GameObject.PlayerGameObject import PlayerGameObject
 from GameObject.ScoreGameObject import ScoreGameObject
-from GameObject.PipeGameObject import PipeGameObject
+from GameObject.PipePairGameObject import PipePairGameObject
 
 
 class PauseScene(GameScene):
@@ -17,4 +17,6 @@ class PauseScene(GameScene):
 
         PlayerGameObject.instance.draw(display)
         ScoreGameObject.instance.draw(display)
-        PipeGameObject.draw_all(display)
+
+        for key in PipePairGameObject.object_list:
+            PipePairGameObject.object_list[key].draw(display)

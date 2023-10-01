@@ -12,9 +12,9 @@ class PipeGameObject(GameObject):
         PipeGameObject.object_list[self.get_id()] = self
 
         if self.name in PipeGameObject.object_list_by_name:
-            raise NameError(f'Game Object with name \'{f"pipe_{len(self.object_list.keys())+1}"}\' already registered')
+            raise NameError(f'Game Object with name \'{self.name}\' already registered')
         else:
-            PipeGameObject.object_list_by_name[f"pipe_{len(self.object_list.keys())+1}"] = self
+            PipeGameObject.object_list_by_name[self.name] = self
 
         self.collision_box.x = 20
         self.collision_box.y = 20

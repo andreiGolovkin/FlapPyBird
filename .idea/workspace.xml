@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e4a016e-8279-4d93-a0a0-f4dad4d32c8b" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/Events.py" beforeDir="false" afterPath="$PROJECT_DIR$/Events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameObject/DigitGameObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameObject/DigitGameObject.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameObject/PipeGameObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameObject/PipeGameObject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameObject/PlayerGameObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameObject/PlayerGameObject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameObject/ScoreGameObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameObject/ScoreGameObject.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameScene/GamingScene.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameScene/GamingScene.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameScene/PauseScene.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameScene/PauseScene.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameScene/SceneSelector.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameScene/SceneSelector.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameScene/StartingScene.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameScene/StartingScene.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameState.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameState.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextureHandler/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextureHandler/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

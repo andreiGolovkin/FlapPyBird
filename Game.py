@@ -5,7 +5,7 @@ import GameState
 from GameObject import GameObject
 from GameObject.PlayerGameObject import PlayerGameObject
 from GameObject.ScoreGameObject import ScoreGameObject
-from GameObject.PipeGameObject import PipeGameObject
+from GameObject.PipePairGameObject import PipePairGameObject
 from Events import events_register
 from GameScene.SceneSelector import SceneSelector
 
@@ -54,14 +54,13 @@ class Game:
 
         PlayerGameObject()
         ScoreGameObject()
-        PipeGameObject()
-
+        PipePairGameObject()
 
     def update(self):
         # fill the screen with a color to wipe away anything from last frame
         self.screen.fill("grey")
 
-        self.update_objects()
+        # self.update_objects()
 
         # flip() the display to put your work on screen
         pygame.display.flip()
