@@ -5,3 +5,6 @@ Flappy Bird game written in Python with pygame
 ```commandline
 python3 ./main.py
 ```
+
+## Dependencies
+- pygame
