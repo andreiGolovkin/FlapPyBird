@@ -1,7 +1,7 @@
 from GameScene.StartingScene import StartingScene
 from GameScene.GamingScene import GamingScene
 from GameScene.PauseScene import PauseScene
-from GameState import GameState
+import GameState
 
 
 class SceneSelector:

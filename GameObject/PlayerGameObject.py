@@ -1,5 +1,5 @@
 from GameObject import GameObject
-from GameState import GameState
+import GameState
 from Geometry.Point import Point
 import pygame
 import math

@@ -1,5 +1,5 @@
 from GameObject import GameObject
-from GameState import GameState
+import GameState
 import pygame
 
 

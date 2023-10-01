@@ -1,6 +1,6 @@
 import pygame
 from TextureHandler.TextureTable import metadata
-from GameState import GameState
+import GameState
 
 
 class TextureHandler:

@@ -1,11 +1,11 @@
 import pygame
 
-import GameScene
 from TextureHandler import TextureHandler
-from GameState import GameState
+import GameState
 from GameObject import GameObject
 from GameObject.PlayerGameObject import PlayerGameObject
 from GameObject.ScoreGameObject import ScoreGameObject
+from GameObject.PipeGameObject import PipeGameObject
 from Events import events_register
 from GameScene.SceneSelector import SceneSelector
 
@@ -25,7 +25,7 @@ class Game:
 
     def run(self) -> None:
         """
-        This method is controlling the basic game lifecycle.
+        This method is controlling the main game loop.
         :return:
         None
         """
@@ -54,12 +54,14 @@ class Game:
 
         PlayerGameObject()
         ScoreGameObject()
+        PipeGameObject()
+
 
     def update(self):
         # fill the screen with a color to wipe away anything from last frame
         self.screen.fill("grey")
 
-        self.draw()
+        self.update_objects()
 
         # flip() the display to put your work on screen
         pygame.display.flip()
@@ -76,6 +78,6 @@ class Game:
             if event.type in events_register:
                 events_register[event.type](event)
 
-    def draw(self):
+    def update_objects(self):
         for key in GameObject.object_list:
             GameObject.object_list[key].update()

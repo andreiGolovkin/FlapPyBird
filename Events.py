@@ -1,5 +1,5 @@
 import pygame
-from GameState import GameState
+import GameState
 
 from GameObject.ScoreGameObject import ScoreGameObject
 

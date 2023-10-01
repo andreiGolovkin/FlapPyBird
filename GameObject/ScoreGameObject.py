@@ -1,7 +1,7 @@
 from GameObject import GameObject
 from GameObject.DigitGameObject import DigitGameObject
 from GameObject.PositionMode import PositionMode
-from GameState import GameState
+import GameState
 import pygame
 
 
