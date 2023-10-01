@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e4a016e-8279-4d93-a0a0-f4dad4d32c8b" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/Events.py" beforeDir="false" afterPath="$PROJECT_DIR$/Events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameObject/DigitGameObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameObject/DigitGameObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameObject/PipeGameObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameObject/PipeGameObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameObject/PlayerGameObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameObject/PlayerGameObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameObject/ScoreGameObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameObject/ScoreGameObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameScene/GamingScene.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameScene/GamingScene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameScene/PauseScene.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameScene/PauseScene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameScene/SceneSelector.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameScene/SceneSelector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameScene/StartingScene.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameScene/StartingScene.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameState.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameState.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextureHandler/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextureHandler/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2W7M1MoGxJC8jmgGsOGO3yYSF3u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI gaming\Desktop\FlapPyBird" />
+      <recent name="C:\Users\MSI gaming\Desktop\FlapPyBird\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI gaming\Desktop\FlapPyBird" />
+      <recent name="C:\Users\MSI gaming\Desktop\FlapPyBird\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="PythonConfigurationType" factoryName="Python">
+      <module name="FlapPyBird" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MSI gaming\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e4a016e-8279-4d93-a0a0-f4dad4d32c8b" name="Changes" comment="" />
+      <created>1696078948974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696078948974</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1696131520112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696131520112</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
